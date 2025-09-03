@@ -1,7 +1,7 @@
 
 package com.mycompany.exerciciojava;
 
-//Olá, meu nome é Luis e eu vou fazer um código em java switch
+//Olá, meu nome é Luis e eu vou fazer um código com JavaSwitch e JavaScanner
 import java.util.Scanner;
 
 public class ExercicioJava {
