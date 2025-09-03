@@ -44,7 +44,7 @@ try{
         
         default:
         System.out.println("Número inválido, digite novamente um número de 1 a 4.");
-        return;
+        break;
         }
     
         System.out.print("Digite quantas passagens você deseja: ");
@@ -109,7 +109,7 @@ try{
         
         default:
         System.out.println("Número de serviço inválido, digite novamente um número de 1 a 4.");
-        return;
+        break;
         }
     
     }catch(Exception e) {
@@ -176,7 +176,7 @@ switch (opção) {
 
         default:
         System.out.println("Opção inválida. Digite de 1 a 4 por favor.");
-        return;
+        break;
         }
 
     }catch(Exception e) {
